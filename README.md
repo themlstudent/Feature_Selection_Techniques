@@ -1,1 +1,3 @@
-# Feature_Selection_Techniques
+# Feature Selection Techniques
+
+![](images/fs.png)

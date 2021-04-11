@@ -2,7 +2,7 @@
 
 ![](images/fs.png)
 
-## Basic Selection Methods
+## 1 > Basic Selection Methods
 
 <li> 1. Removing Constant Features
 <li> 2. Removing Quasi-Constant Features
